@@ -1,2 +1,4 @@
 # Graphics
-About my Description 
+### Rupesh Pawar
+### Member , Graphics Wing 
+### IIIT Allahabad
